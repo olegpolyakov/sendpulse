@@ -1,0 +1,17 @@
+{
+  "name": "sendpulse",
+  "version": "1.0.0",
+  "description": "A simple SendPulse REST client library and example for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/olegpolyakov/sendpulse.git",
+  "keywords": ["sendpulse"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sendpulse/sendpulse-rest-api-node.js/issues"
+  },
+  "homepage": "https://github.com/sendpulse/sendpulse-rest-api-node.js#readme"
+}
